@@ -1,5 +1,5 @@
 # Presentation-website
-This is a Presentation Website created using HTML, CSS. In this Website I deep dived into css topics like animations, keyframes, transitions, properties like transform, etc. I got a learn and a lot and the project was fun to develop.
+This is a Presentation Website created using HTML, CSS. In this Website I deep dived into css topics like animations, keyframes, transitions, properties like transform, etc. I got a learn and a lot and the project was quite fun to develop.
 Feel free to get ideas.
 
 ## Developed By 
